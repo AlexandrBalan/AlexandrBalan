@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Software+Development+Student;Data+Analytics+Enthusiast;Incoming+Microsoft+Intern)](https://git.io/typing-svg)
 
-software development & data analytics student· building things that matter
+software development & data analytics student · building things that matter.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrbalann)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balanalexwork@gmail.com)
@@ -16,12 +16,13 @@ software development & data analytics student· building things that matter
 
 ### About me
 
-- Pursuing a **Bachelor of Applied Science in Software Development & Data Analytics** @ Green River College (2028)
-- Incoming **Microsoft Discovery Intern** for Summer 2026, working alongside engineers on real technical projects
-- Developed a Power BI dashboard to visualize Costco membership performance, tracking renewal rates, regional trends, and revenue growth
-- Member of the **MESA Program**, focused on technical interview prep and collaborative problem solving
-- Part of the **Board Masters Club** at Green River — a student group dedicated to whiteboard coding, algorithm practice, and LeetCode sessions with peers
-- Fluent in Romanian, intermediate in French
+- Pursuing a **Bachelor of Applied Science in Software Development & Data Analytics** @ Green River College (2028).
+- Interested in both software development and IT.
+- Incoming **Microsoft Discovery Intern** for Summer 2026, working alongside engineers on real technical projects.
+- Developed a Power BI dashboard to visualize Costco membership performance, tracking renewal rates, regional trends, and revenue growth.
+- Member of the **MESA Program**, focused on technical interview prep and collaborative problem solving.
+- Part of the **Board Masters Club** at Green River — a student group dedicated to whiteboard coding, algorithm practice, and LeetCode sessions with peers.
+- Fluent in Romanian, intermediate in French.
 
 ---
 
