@@ -16,12 +16,12 @@ software development & data analytics · building things that matter
 
 ### About me
 
-- Studying **Software Development & Data Analytics** @ Green River College (class of 2028)
-- Heading to Redmond this summer as a **Microsoft Discovery Intern**
-- Made a Power BI dashboard for Costco membership data because the raw numbers needed to actually make sense
-- In the **MESA Program** — prepping for technical interviews and working through problems with other people who take this stuff seriously
-- Also on the **Board Masters Club** at Green River — yes, board games count as networking
-- Speak Romanian fluently, getting there with French
+- Pursuing a **Bachelor of Applied Science in Software Development & Data Analytics** @ Green River College (2028)
+- Incoming **Microsoft Discovery Intern** for Summer 2026, working alongside engineers on real technical projects
+- Developed a Power BI dashboard to visualize Costco membership performance, tracking renewal rates, regional trends, and revenue growth
+- Member of the **MESA Program**, focused on technical interview prep and collaborative problem solving
+- Part of the **Board Masters Club** at Green River — a student group dedicated to whiteboard coding, algorithm practice, and LeetCode sessions with peers
+- Fluent in Romanian, intermediate in French
 
 ---
 
@@ -63,20 +63,20 @@ software development & data analytics · building things that matter
 <tr>
 <td width="50%" valign="top">
 
-#### 📊 Costco Membership Performance Dashboard
+#### Costco Membership Performance Dashboard
 *Power BI · SQL · DAX*
 
-Tracked membership growth, renewal rates, and regional revenue in a dashboard I built from scratch. Added drill-through pages and slicers so the data is actually explorable, not just pretty.
+Analyzed membership growth, renewal rates, and regional revenue using Power BI. Built interactive slicers and drill-through pages to make the data easy to explore across different regions and membership tiers.
 
 `Power BI` `SQL` `DAX` `UI/UX Design`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌐 Responsive Website Platform
+#### Responsive Website Platform
 *HTML · CSS · JavaScript*
 
-Multi-page site with clean navigation, designed to work on any screen size. Deployed on GitHub Pages and built with accessibility in mind from the start.
+Designed and developed a responsive multi-page website for a local landscaping business. Handled the full project independently, from layout and design to deployment on GitHub Pages.Designed and developed a responsive multi-page website for a local landscaping business. Handled the full project independently, from layout and design to deployment on GitHub Pages.
 
 `HTML` `CSS` `JavaScript` `GitHub Pages`
 
@@ -85,22 +85,12 @@ Multi-page site with clean navigation, designed to work on any screen size. Depl
 <tr>
 <td width="50%" valign="top" colspan="2" align="center">
 
-#### 💼 Incoming Microsoft Discovery Intern — Summer 2026 · Redmond, WA
+#### Incoming Microsoft Discovery Intern — Summer 2026 · Redmond, WA
 
-Joining Microsoft's Discovery program this summer to work on real engineering projects alongside the people who build the actual products.
+Selected for Microsoft's Discovery Internship program to work alongside engineers on technical projects in a professional software development environment.
 
 `Microsoft` `Software Engineering` `Summer 2026`
 
 </td>
 </tr>
 </table>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrBalan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="55%" />
-
-</div>
