@@ -2,12 +2,13 @@
 
 # Alexandr Balan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Software+Engineer;Full-Stack+Developer;Chrome+Extension+Builder;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Software+Development+Student;Data+Analytics+Enthusiast;Incoming+Microsoft+Intern;Full-Stack+Builder)](https://git.io/typing-svg)
 
-software engineer · There's no place like 127.0.0.1
+software development & data analytics · building things that matter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrbalann/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrbalann)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balanalexwork@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexandrBalan)
 
 </div>
 
@@ -15,10 +16,11 @@ software engineer · There's no place like 127.0.0.1
 
 ### About me
 
-- Finishing up my **BAS in CS** @ Green River College (June 2026)
-- Built a Chrome extension that autofills job apps and tracks everything in a dashboard because spreadsheets weren't cutting it
-- Contributed to [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED), an open-source energy analytics project
-- Worked on video analysis pipelines for salamander research with Ohio State
+- Pursuing a **BAS in Software Development & Data Analytics** @ Green River College (June 2028)
+- Incoming **Microsoft Discovery Intern** (Summer 2026) — getting hands-on experience alongside real engineers
+- Built a **Power BI dashboard** for Costco membership KPIs with drill-through analytics and dynamic slicers
+- Part of the **MESA Program** — solving programming challenges and sharpening technical interview skills
+- Fluent in Romanian, working in French, and always writing code
 
 ---
 
@@ -28,34 +30,27 @@ software engineer · There's no place like 127.0.0.1
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
-**Infrastructure & Tools**
+**Tools & Technologies**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -67,44 +62,44 @@ software engineer · There's no place like 127.0.0.1
 <tr>
 <td width="50%" valign="top">
 
-#### 🚀 Job Application Tracker
-*The thing I use every day*
+#### 📊 Costco Membership Performance Dashboard
+*KPIs, trends, and clean visuals*
 
-Got tired of tracking apps in a spreadsheet, so I built a Chrome extension that detects job postings on 30+ ATS platforms, autofills my info, and logs everything to a dashboard.
+Built an interactive Power BI dashboard to track and analyze membership growth, renewal rates, and regional revenue. Added drill-through pages and slicers for dynamic filtering and deeper analysis.
 
-`Next.js 14` `Prisma` `Neon Postgres` `Chrome Manifest V3` `NextAuth` `Vercel`
+`Power BI` `SQL` `DAX` `UI/UX Design`
 
 </td>
 <td width="50%" valign="top">
 
-#### ⚡ [Code-IT](https://github.com/HumaGitGud/Code-IT)
-*Real-time collab for JupyterHub*
+#### 🌐 Responsive Website Platform
+*From static to accessible*
 
-JupyterLab extension that lets students code together in the same notebook on TLJH. Built with a team of four, we rotated roles every sprint.
+Designed and deployed a multi-page responsive website with structured navigation and a polished UI/UX — built for accessibility across desktop and mobile, hosted on GitHub Pages.
 
-`TypeScript` `Python` `JupyterLab API` `GitHub Actions`
+`HTML` `CSS` `JavaScript` `GitHub Pages`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎬 [FilmVault](https://github.com/SketchRudy/FilmVault)
-*Movie collections app*
+#### 💼 Incoming Microsoft Discovery Intern
+*Summer 2026 · Redmond, WA*
 
-Personal movie tracker with auth, search, and a public vault anyone can browse. My first full-stack project that I actually deployed.
+Selected for Microsoft's Discovery Internship program to work alongside engineers on real technical projects and gain hands-on experience in a professional software development environment.
 
-`Node.js` `Express` `MariaDB` `bcrypt` `EJS` `Google Cloud`
+`Microsoft` `Software Engineering` `Summer 2026`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔬 Salamander Video Analysis
-*Research with Green River & Ohio State*
+#### 🏪 Target — Closing Expert
+*Real-world systems under pressure*
 
-Pipeline that pulls motion and position data out of field footage for biology research. Wrote the processing in Java, built a React frontend for the tooling.
+Process 100+ transactions per shift, troubleshoot POS and payment systems in real time, and coordinate between customers and team members during peak hours to keep operations running smoothly.
 
-`Java` `JavaCV` `FFmpeg` `React` `Docker`
+`POS Systems` `Problem Solving` `Communication`
 
 </td>
 </tr>
@@ -116,6 +111,6 @@ Pipeline that pulls motion and position data out of field footage for biology re
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SketchRudy&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="55%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrBalan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="55%" />
 
 </div>
