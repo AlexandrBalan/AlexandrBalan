@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Software+Development+Student;Data+Analytics+Enthusiast;Incoming+Microsoft+Intern)](https://git.io/typing-svg)
 
-software development & data analytics · building things that matter
+software development & data analytics student· building things that matter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrbalann)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balanalexwork@gmail.com)
