@@ -2,7 +2,7 @@
 
 # Alexandr Balan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Software+Development+Student;Data+Analytics+Enthusiast;Incoming+Microsoft+Intern;Full-Stack+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Software+Development+Student;Data+Analytics+Enthusiast;Incoming+Microsoft+Intern)](https://git.io/typing-svg)
 
 software development & data analytics · building things that matter
 
@@ -16,11 +16,12 @@ software development & data analytics · building things that matter
 
 ### About me
 
-- Pursuing a **BAS in Software Development & Data Analytics** @ Green River College (June 2028)
-- Incoming **Microsoft Discovery Intern** (Summer 2026) — getting hands-on experience alongside real engineers
-- Built a **Power BI dashboard** for Costco membership KPIs with drill-through analytics and dynamic slicers
-- Part of the **MESA Program** — solving programming challenges and sharpening technical interview skills
-- Fluent in Romanian, working in French, and always writing code
+- Studying **Software Development & Data Analytics** @ Green River College (class of 2028)
+- Heading to Redmond this summer as a **Microsoft Discovery Intern**
+- Made a Power BI dashboard for Costco membership data because the raw numbers needed to actually make sense
+- In the **MESA Program** — prepping for technical interviews and working through problems with other people who take this stuff seriously
+- Also on the **Board Masters Club** at Green River — yes, board games count as networking
+- Speak Romanian fluently, getting there with French
 
 ---
 
@@ -50,7 +51,7 @@ software development & data analytics · building things that matter
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -63,9 +64,9 @@ software development & data analytics · building things that matter
 <td width="50%" valign="top">
 
 #### 📊 Costco Membership Performance Dashboard
-*KPIs, trends, and clean visuals*
+*Power BI · SQL · DAX*
 
-Built an interactive Power BI dashboard to track and analyze membership growth, renewal rates, and regional revenue. Added drill-through pages and slicers for dynamic filtering and deeper analysis.
+Tracked membership growth, renewal rates, and regional revenue in a dashboard I built from scratch. Added drill-through pages and slicers so the data is actually explorable, not just pretty.
 
 `Power BI` `SQL` `DAX` `UI/UX Design`
 
@@ -73,33 +74,22 @@ Built an interactive Power BI dashboard to track and analyze membership growth, 
 <td width="50%" valign="top">
 
 #### 🌐 Responsive Website Platform
-*From static to accessible*
+*HTML · CSS · JavaScript*
 
-Designed and deployed a multi-page responsive website with structured navigation and a polished UI/UX — built for accessibility across desktop and mobile, hosted on GitHub Pages.
+Multi-page site with clean navigation, designed to work on any screen size. Deployed on GitHub Pages and built with accessibility in mind from the start.
 
 `HTML` `CSS` `JavaScript` `GitHub Pages`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" colspan="2" align="center">
 
-#### 💼 Incoming Microsoft Discovery Intern
-*Summer 2026 · Redmond, WA*
+#### 💼 Incoming Microsoft Discovery Intern — Summer 2026 · Redmond, WA
 
-Selected for Microsoft's Discovery Internship program to work alongside engineers on real technical projects and gain hands-on experience in a professional software development environment.
+Joining Microsoft's Discovery program this summer to work on real engineering projects alongside the people who build the actual products.
 
 `Microsoft` `Software Engineering` `Summer 2026`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏪 Target — Closing Expert
-*Real-world systems under pressure*
-
-Process 100+ transactions per shift, troubleshoot POS and payment systems in real time, and coordinate between customers and team members during peak hours to keep operations running smoothly.
-
-`POS Systems` `Problem Solving` `Communication`
 
 </td>
 </tr>
