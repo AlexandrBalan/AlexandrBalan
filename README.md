@@ -82,7 +82,7 @@ Designed and developed a responsive multi-page website for a local landscaping b
 <tr>
 <td width="50%" valign="top" colspan="2" align="center">
 
-#### Incoming Microsoft Discovery Intern — Summer 2026 · Redmond, WA
+#### Previous Microsoft Discovery Intern — Summer 2026 · Redmond, WA
 
 Selected for Microsoft's Discovery Internship program to work alongside engineers on technical projects in a professional software development environment.
 
