@@ -17,7 +17,7 @@ software development & data analytics student · building things that matter
 
 - Pursuing a **Bachelor of Applied Science in Software Development & Data Analytics** @ Green River College (2028).
 - Interested in both software development and IT.
-- Incoming **Microsoft Discovery Intern** for Summer 2026, working alongside engineers on real technical projects.
+- Previous Intern @ **Microsoft** for Summer 2026, working alongside engineers on real technical projects.
 - Developed a Power BI dashboard to visualize Costco membership performance, tracking renewal rates, regional trends, and revenue growth.
 - Member of the **MESA Program**, focused on technical interview prep and collaborative problem solving.
 - Part of the **Board Masters Club** at Green River — a student group dedicated to whiteboard coding, algorithm practice, and LeetCode sessions with peers.
