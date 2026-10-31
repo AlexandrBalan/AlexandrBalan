@@ -15,13 +15,11 @@ software development & data analytics student · building things that matter
 
 ### About me
 
-- Pursuing a **Bachelor of Applied Science in Software Development & Data Analytics** @ Green River College (2028).
-- Interested in both software development and IT.
-- Current **Full Stack Web Developer Intern** @ Green River Devs.
-- Previous Intern @ **Microsoft** for Summer 2026, working alongside engineers on real technical projects.
-- Member of the **MESA Program**, focused on technical interview prep and collaborative problem solving.
-- Part of the **Board Masters Club** at Green River — a student group dedicated to whiteboard coding, algorithm practice, and LeetCode sessions with peers.
-- Fluent in Romanian, intermediate in French.
+- Student at **Green River College**, studying Software Development & Data Analytics (graduating 2028).
+- Full Stack Web Developer Intern at **Green River Devs**.
+- Microsoft Discovery Intern, Summer 2026.
+- Microsoft Student Ambassador, MESA member, and part of the Board Masters Club (whiteboard coding and LeetCode with friends).
+- I speak English, Romanian, and some French.
 
 ---
 
@@ -60,33 +58,44 @@ software development & data analytics student · building things that matter
 <tr>
 <td width="50%" valign="top">
 
-#### Costco Membership Performance Dashboard
+#### Costco Membership Dashboard
 *Power BI · SQL · DAX*
 
-Analyzed membership growth, renewal rates, and regional revenue using Power BI. Built interactive slicers and drill-through pages to make the data easy to explore across different regions and membership tiers.
+Tracks Costco membership growth, renewals, and revenue in one place. You can filter by region or membership type in a few clicks.
 
-`Power BI` `SQL` `DAX` `UI/UX Design`
+`Power BI` `SQL` `DAX`
 
 </td>
 <td width="50%" valign="top">
 
-#### Responsive Website Platform
+#### Landscaping Website Developer
 *HTML · CSS · JavaScript*
 
-Designed and developed a responsive multi-page website for a local landscaping business. Handled the full project independently, from layout and design to deployment on GitHub Pages.Designed and developed a responsive multi-page website for a local landscaping business. Handled the full project independently, from layout and design to deployment on GitHub Pages.
+Built 10+ websites for local landscaping companies. Each one works on any device and is live.
 
 `HTML` `CSS` `JavaScript` `GitHub Pages`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" colspan="2" align="center">
+<td width="50%" valign="top">
 
-#### Previous Microsoft Discovery Intern — Summer 2026 · Redmond, WA
+#### StayScout
+*Chrome Extension · JavaScript*
 
-Selected for Microsoft's Discovery Internship program to work alongside engineers on technical projects in a professional software development environment.
+A Chrome extension that checks hotel and rental listings and gives each one an A to F grade based on price, location, and timing. It also has a chat helper that gives tips based on your budget.
 
-`Microsoft` `Software Engineering` `Summer 2026`
+`JavaScript` `HTML/CSS` `Chrome Extension`
+
+</td>
+<td width="50%" valign="top">
+
+#### Microsoft Discovery Intern, Summer 2026
+*Redmond, WA*
+
+Helped build an AI agent in Copilot Studio that finds and summarizes customer stories each week. It turned a 4 to 5 hour task into under 45 minutes.
+
+`Microsoft` `Copilot Studio` `Summer 2026`
 
 </td>
 </tr>
